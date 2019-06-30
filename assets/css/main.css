@@ -2678,6 +2678,7 @@ input, select, textarea {
 			order: 1;
 			border-radius: 0;
 			width: 40%;
+			border-bottom:solid white; 
 		}
 
 			.spotlight .image img {
