@@ -4,7 +4,8 @@
 [![HitCount](http://hits.dwyl.io/technocrats-robotics/website.svg)](http://hits.dwyl.io/technocrats-robotics/website)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
+Meet project designers at [ECM-Hackers Community](https:/github.com/ecm-hackers) 
+<br />
 Please follow proper [Code Of Conduct](https://github.com/technocrats-robotics/website/blob/master/CODE_OF_CONDUCT.md)
 <br />
 Please read [Contributing Guidelines](https://github.com/technocrats-robotics/website/blob/master/CONTRIBUTING.md)
