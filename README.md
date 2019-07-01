@@ -2,11 +2,15 @@
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) 
 [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](http://badges.mit-license.org) 
 [![HitCount](http://hits.dwyl.io/technocrats-robotics/website.svg)](http://hits.dwyl.io/technocrats-robotics/website)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-
-
-
+Please follow proper [Code Of Conduct](https://github.com/technocrats-robotics/website/blob/master/CODE_OF_CONDUCT.md)
+<br />
+Please read [Contributing Guidelines](https://github.com/technocrats-robotics/website/blob/master/CONTRIBUTING.md)
+<br />
+The project was made under supervision of [Kunal Keshav Singh Sahni](https://github.com/kunal768)
+<br />
 
 
 
